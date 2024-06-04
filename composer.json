@@ -1,0 +1,15 @@
+{
+    "name": "chabba-v/image-compressor-v1",
+    "autoload": {
+        "psr-4": {
+            "ChabbaV\\ImageCompressorV1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "chabbasaad",
+            "email": "dr.saadchabba@hotmail.fr"
+        }
+    ],
+    "require": {}
+}
