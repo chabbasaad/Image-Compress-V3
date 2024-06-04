@@ -18,6 +18,11 @@ class ImageCompressorV1
  echo " this is just test";
  }
 
+ public function SAAD ()
+ {
+ echo " this is just test";
+ }
+
  public function compress($source, $destination, $newWidth, $newHeight, $quality)
  {
  // Get image info
