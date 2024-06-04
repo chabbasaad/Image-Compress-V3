@@ -15,7 +15,7 @@ class ImageCompressorV1
 
  public function testing ()
  {
-
+ echo " this is just test";
  }
 
  public function compress($source, $destination, $newWidth, $newHeight, $quality)
